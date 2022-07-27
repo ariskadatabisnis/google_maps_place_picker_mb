@@ -1,8 +1,0 @@
-{
-  "flutterSdkVersion": "beta",
-  "flavors": {
-    "dev": "beta",
-    "prod": "stable",
-    "min": "2.10.5"
-  }
-}
