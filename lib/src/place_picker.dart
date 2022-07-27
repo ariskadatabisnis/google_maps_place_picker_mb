@@ -354,7 +354,7 @@ class _PlacePickerState extends State<PlacePicker> {
                   }
                 },
                 icon: Icon(
-                  Platform.isIOS ? Icons.arrow_back_ios : Icons.arrow_back,
+                  Icons.arrow_back_ios,
                 ),
                 color: Colors.black.withAlpha(128),
                 padding: EdgeInsets.zero)
